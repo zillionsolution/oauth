@@ -1,0 +1,8 @@
+{
+    "name": "zillionsolution/oauth",
+    "description": "One platform to login with different social accounts",
+    "type": "library",
+    "require": {
+        "cosenary/instagram": "^2.3"
+    }
+}
